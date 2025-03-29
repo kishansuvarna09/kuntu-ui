@@ -1,0 +1,20 @@
+{
+  "name": "@kishansuvarna09/kuntu-ui",
+  "version": "1.0.0",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "scripts": {},
+  "author": "Kishan Suvarna",
+  "license": "MIT",
+  "description": "Kuntu UI library",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^28.0.3",
+    "@rollup/plugin-node-resolve": "^16.0.1",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "@types/react": "^19.0.12",
+    "react": "^19.1.0",
+    "rollup": "^4.38.0",
+    "rollup-plugin-dts": "^6.2.1",
+    "typescript": "^5.8.2"
+  }
+}
