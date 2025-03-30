@@ -1,6 +1,6 @@
 {
   "name": "@kishansuvarna09/kuntu-ui",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
